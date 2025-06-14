@@ -1,0 +1,9 @@
+{
+  "name": "firstappdem",
+  "version": "1.0.0",
+  "description": "A simple Azure Function App",
+  "main": "function/index.js",
+  "dependencies": {
+    "azure-functions-core-tools": "^4.0.0"
+  }
+}
